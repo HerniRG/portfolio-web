@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "analyze": "vite build --mode analyze"
+    "analyze": "vite build --mode analyze",
+    "deploy-site": "pnpm build && git add . && git commit -m \"🚀 Deploy automático\" && git push origin main"
   },
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.0.5",

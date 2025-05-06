@@ -105,7 +105,7 @@ export const es = {
           "APIs RESTful",
           "Firebase",
           "Bases de Datos SQL",
-          "Node.js",
+          "Vapor",
           "Servicios Cloud"
         ]
       },
