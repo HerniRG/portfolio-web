@@ -40,7 +40,7 @@ export const es = {
           institution: "IES Tiempos Modernos Zaragoza"
         },
         {
-          title: "Bachiller Tecnológico",
+          title: "Bachillerato Tecnológico",
           institution: "IES ETI Tudela"
         }
       ]
