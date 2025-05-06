@@ -48,7 +48,7 @@ export const en = {
     certifications: {
       title: "Certifications",
       items: [
-        "Professional Scrum Master I (PSM I)",
+        "Scrum Master",
         "iOS Development with Swift",
         "Android Development with Kotlin",
         "Flutter Development"
