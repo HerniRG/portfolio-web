@@ -59,7 +59,7 @@ const About = () => {
                 asChild
               >
                 <a 
-                  href="https://drive.google.com/file/d/1mSzXsPAbAGNPmRE7Lp40iBTcEpxTjOQX/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1vtkTScrxZV4NOOR9k6U6EbYQy9f_erjz/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
