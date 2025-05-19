@@ -95,6 +95,7 @@ const translations = {
           skills: [
             "Clean Architecture",
             "MVVM Pattern",
+            "Viper Pattern",
             "Dependency Injection",
             "Unit Testing",
             "CI/CD"
@@ -106,7 +107,7 @@ const translations = {
             "RESTful APIs",
             "Firebase",
             "SQL Databases",
-            "Node.js",
+            "Vapor",
             "Cloud Services"
           ]
         },
