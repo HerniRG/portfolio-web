@@ -303,8 +303,8 @@ const translations = {
         architecture: {
           title: "Arquitectura",
           skills: [
-            "Arquitectura Limpia",
             "Patrón MVVM",
+            "Ptrón Viper",
             "Inyección de Dependencias",
             "Testing Unitario",
             "CI/CD"
@@ -316,7 +316,7 @@ const translations = {
             "APIs RESTful",
             "Firebase",
             "Bases de Datos SQL",
-            "Node.js",
+            "Vapor",
             "Servicios Cloud"
           ]
         },
