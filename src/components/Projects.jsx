@@ -1,4 +1,3 @@
-
 import React from "react";
 import { motion } from "framer-motion";
 import { Button } from "./ui/button";
@@ -40,7 +39,8 @@ const Projects = () => {
     "https://storage.googleapis.com/hostinger-horizons-assets-prod/7e1a550c-c4cc-417f-8421-20dc35defcae/06e87937d05cf0a7d436f3106af898cd.jpg",
     "https://storage.googleapis.com/hostinger-horizons-assets-prod/7e1a550c-c4cc-417f-8421-20dc35defcae/0c550d04561447c3336236e16e299783.jpg",
     "https://storage.googleapis.com/hostinger-horizons-assets-prod/7e1a550c-c4cc-417f-8421-20dc35defcae/b178a9aab7fd12dc69fa40c33b542f0d.jpg",
-    "https://storage.googleapis.com/hostinger-horizons-assets-prod/7e1a550c-c4cc-417f-8421-20dc35defcae/66002c002cfc71ca8e5344fb07a30157.png"
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/7e1a550c-c4cc-417f-8421-20dc35defcae/66002c002cfc71ca8e5344fb07a30157.png",
+    "https://live.staticflickr.com/65535/54592317112_3541f78243.jpg"
   ];
 
   const projectLinks = [
@@ -67,6 +67,10 @@ const Projects = () => {
     {
       appStore: "https://apps.apple.com/us/app/fashion-meteo/id6455540997",
       playStore: "https://play.google.com/store/apps/details?id=app.fashion.meteo"
+    },
+    {
+      appStore: "https://apps.apple.com/ar/app/listai/id6747041348",
+      playStore: null
     }
   ];
 
