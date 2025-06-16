@@ -128,6 +128,10 @@ export const es = {
     viewOnPlayStore: "Ver en Play Store",
     items: [
       {
+        title: "Listai",
+        description: "Lista inteligente impulsada por IA para optimizar tus compras."
+      },
+      {
         title: "DevCollab",
         description: "Una plataforma colaborativa para que los desarrolladores compartan y trabajen en proyectos juntos."
       },
