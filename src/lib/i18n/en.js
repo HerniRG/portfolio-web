@@ -129,6 +129,10 @@ export const en = {
     viewOnPlayStore: "View on Play Store",
     items: [
       {
+        title: "Listai",
+        description: "AI-powered shopping list to streamline your purchases."
+      },
+      {
         title: "DevCollab",
         description: "A collaborative platform for developers to share and work on projects together."
       },

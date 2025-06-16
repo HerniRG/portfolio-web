@@ -130,6 +130,10 @@ const translations = {
       viewOnPlayStore: "View on Play Store",
       items: [
         {
+          title: "Listai",
+          description: "AI-powered shopping list to streamline your purchases."
+        },
+        {
           title: "DevCollab",
           description: "A collaborative platform for developers to share and work on projects together."
         },
@@ -338,6 +342,10 @@ const translations = {
       viewOnAppStore: "Ver en App Store",
       viewOnPlayStore: "Ver en Play Store",
       items: [
+        {
+          title: "Listai",
+          description: "Lista inteligente impulsada por IA para optimizar tus compras."
+        },
         {
           title: "DevCollab",
           description: "Una plataforma colaborativa para que los desarrolladores compartan y trabajen en proyectos juntos."
